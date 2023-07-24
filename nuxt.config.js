@@ -70,7 +70,7 @@ export default {
   },
 
   axios: {
-    baseURL: 'http://girlsontop.com.bd/backup/',
+    baseURL: 'https://girlsontop-frontend.codeshaper.tech/',
     // Used as fallback if no runtime config is provided
   },
   // Build Configuration: https://go.nuxtjs.dev/config-build
@@ -78,6 +78,6 @@ export default {
   //   publicPath: 'https://girlsontop.com.bd/',
   // },
   publicRuntimeConfig: {
-    baseURL: 'http://girlsontop.com.bd/backup/',
+    baseURL: 'https://girlsontop-frontend.codeshaper.tech/',
   }
 }
